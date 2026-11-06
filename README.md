@@ -31,7 +31,7 @@ macOS 命令行工具：批量保存当前账号已购买、且机核服务端�
 
 ## 下载
 
-从 [Releases](https://github.com/KevinAshen/gcoredl-macos/releases/latest) 下载与你的 Mac 对应的文件：
+从 [Releases](https://github.com/OSSpark/gcoredl-macos/releases/latest) 下载与你的 Mac 对应的文件：
 
 - Intel：`gcoredl-darwin-amd64`
 - Apple Silicon（M1/M2/M3/M4）：`gcoredl-darwin-arm64`
@@ -50,7 +50,7 @@ chmod +x ./gcoredl-darwin-arm64
 克隆并在仓库目录执行：
 
 ```bash
-git clone https://github.com/KevinAshen/gcoredl-macos.git
+git clone https://github.com/OSSpark/gcoredl-macos.git
 cd gcoredl-macos
 go test ./...
 go build -trimpath -o gcoredl .

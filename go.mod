@@ -1,4 +1,4 @@
-module github.com/KevinAshen/gcoredl-macos
+module github.com/OSSpark/gcoredl-macos
 
 go 1.22
 
